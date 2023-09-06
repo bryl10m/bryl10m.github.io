@@ -417,7 +417,6 @@ details {
 
     #contact {
         width: 50%;
-         
         min-width: 10%; 
     }
 
@@ -476,7 +475,6 @@ details {
     }
 
     li {
-        /* padding: 0.2rem; */
         margin-right: 0.8rem;
         font-size: 0.9rem;
     }
