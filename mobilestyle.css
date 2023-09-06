@@ -201,14 +201,6 @@ main {
     letter-spacing: 0.2rem;
 }
 
-.counter {
-    position: relative;
-    right: 10%;
-    bottom: 0;
-    text-align: right;
-    color: gray;
-}
-
 /* Projects Styling */
 
 #projects {
@@ -353,7 +345,7 @@ details {
     bottom: 0;
     min-width: 20%; 
     color: white;
-    background-color: hsla(1, 98%, 62%, 0.8);
+    background-color: hsla(1, 98%, 62%, 0.9);
     border: 0.2rem solid hsl(1, 96%, 10%);
     padding-bottom: 2rem;
 }
