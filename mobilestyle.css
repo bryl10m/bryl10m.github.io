@@ -354,7 +354,7 @@ details {
     display: flex;
     justify-content: flex-start;
     flex-wrap: wrap;
-    font-family: Georgia, serif;
+    font-family: Ubuntu, "sans serif";
     font-size: 2rem;
     font-weight: bold;
     padding-top: 1rem;
